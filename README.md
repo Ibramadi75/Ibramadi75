@@ -14,7 +14,7 @@
   <a href="mailto:ibrahim75madi@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ibrahim-madi">
+  <a href="https://linkedin.com/in/ibrahim-madi-374ab3227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
   </a>
 </p>
