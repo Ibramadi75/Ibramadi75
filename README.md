@@ -55,7 +55,7 @@ Langues: Français 🇫🇷 | Anglais 🇬🇧
 -   💡 **Sourate Reader** : app d’apprentissage interactif avec audio & translittération
 -   🎲 **Multiplication Runner** : jeu mobile avec mécaniques de clone units stratégiques
 -   🧑‍🍳 **Cusrite** : jeu de gestion de restaurant poussé, stratégique et gestion de ressources.
-- 🧹 **Yomb query** : outil de tri et de filtre automatique basé sur la réflexion avec C# et .NET
+- 🧹 **Superfilter** : outil de tri et de filtre automatique basé sur la réflexion avec C# et .NET
     
 
 ----------
